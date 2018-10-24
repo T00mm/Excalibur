@@ -11,9 +11,13 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Changed
 
+- Added parameter on SpriteSheet constructor so you can define how many pixel spacing is between sprites ([#1058] https://github.com/excaliburjs/Excalibur/issues/1058)
+
 ### Deprecated
 
 ### Fixed
+
+- Fixed issue where there were missing files in the dist (Loader.css, Loader.logo.png) ([#1057](https://github.com/excaliburjs/Excalibur/issues/1057))
 
 <!--------------------------------- DO NOT EDIT BELOW THIS LINE --------------------------------->
 
